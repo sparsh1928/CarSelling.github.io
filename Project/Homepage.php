@@ -24,7 +24,7 @@
     <ul>
         <li><a href="Homepage.php">HOME</a></li>
         <li><a href="ContactUS.php">CONTACT US</a></li>
-        <li><a href="Login.php">LOGOUT</a></li>
+        <li><a href="Index.php">LOGOUT</a></li>
 
     </ul>
     </nav>
